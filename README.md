@@ -1,7 +1,7 @@
 "
 # Everything was done for educational purposes
 
-## Basic MLP with a tokenizer (useless, but who cares?)
+## Basic MLP with a tokenizer (ik its useless)
 
 This is a basic MLP created using the PyTorch framework in a Jupyter notebook.  
 I am currently studying deep learning, and as a high school student I don't yet have a clear idea of what to study or in which order.  
